@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: ESCG
+subtitle: Digital Technologies
+email: nigel.morris@escg.ac.uk
+description: We are very excited to offer a brand new range of courses, designed to teach cutting edge skillsets to highly motivated students looking to pursue a future in the fast moving Digital Technologies Sector.
+baseurl: "/escg" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: MountField Road
+city: Lewes
+state: east Sussex
+zip_code: BN8 
+country: United Kingdom
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
